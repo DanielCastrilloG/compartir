@@ -19,6 +19,7 @@ public class Compartir {
         System.out.println("ROJO");
         System.out.println("VERDE");
         System.out.println("AMARILLO");
+        System.out.println("BLANCO");
     }
     
 }
